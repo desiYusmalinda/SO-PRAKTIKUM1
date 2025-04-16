@@ -3,6 +3,7 @@ Nama  : Desi Yusmalinda
 
 Nim   : 09030182428014
 
+
 1. Instalasi Python ,pastikan Python sudah terinstal di Ubuntu.
 
    <img width="295" alt="des1" src="https://github.com/user-attachments/assets/cbcb595b-fc21-46c8-b87b-e604a9f1ac46" />
